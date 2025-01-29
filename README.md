@@ -6,7 +6,7 @@
 
 **Basic Gameplay Guide**: [Download Here](-)
 
-**The Mystery of Mirage Island**: [Download Here](-)
+**Adventure Modules**: [Download Here](-)
 
 *Twitter/X: [@sonictthgame](https://x.com/sonictthgame)*  | *Join the [Discord](https://discord.gg/ZaTzbRg9)!*
 
