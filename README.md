@@ -4,7 +4,7 @@
 
 **Core Rulebook**: [Download Here](https://github.com/MaverNovv/Sonic-TagTeamHeroes/blob/main/Resources/Sonic%20Tag-Team%20Heroes%201.4.2.pdf)
 
-**Basic Gameplay Guide**: [Download Here]((https://github.com/MaverNovv/Sonic-TagTeamHeroes/blob/main/Resources/STTH%20Basic%20Gameplay.pdf))
+**Basic Gameplay Guide**: [Download Here](https://github.com/MaverNovv/Sonic-TagTeamHeroes/blob/main/Resources/STTH%20Basic%20Gameplay.pdf)
 
 **Adventure Modules**: [Download Here](https://github.com/MaverNovv/Sonic-TagTeamHeroes/tree/main/Resources/Adventure%20Modules)
 
